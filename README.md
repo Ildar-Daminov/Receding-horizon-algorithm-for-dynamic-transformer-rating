@@ -1,6 +1,6 @@
 # Receding-horizon-algorithm-for-dynamic-transformer-rating
 
-UPD (03 april 2022): The code and data for this article will be uploaded within 10 days
+UPD (26 april 2022): The code and data for this article will be uploaded soon
 
 So far, you may see  our MATLAB code for another paper, available at 
 
