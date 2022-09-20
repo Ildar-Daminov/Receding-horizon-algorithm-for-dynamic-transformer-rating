@@ -1,5 +1,5 @@
 # Receding horizon algorithm for dynamic transformer rating and its application for real-time economic dispatch
-<img align="left" alt="Coding" width="300" src="https://www.showsbee.com/newmaker/www/u/2018/20185/cfr_img/IEEE-PES-PowerTech-2019.png">
+<img align="left" alt="Coding" width="350" src="https://www.showsbee.com/newmaker/www/u/2018/20185/cfr_img/IEEE-PES-PowerTech-2019.png">
 
   
 This repository shares the MATLAB code and data for the conference paper 📋:\
