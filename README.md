@@ -51,3 +51,10 @@ Initial data:
 * Ageing_IEEE.mat - look-up table with ageing rates calculated by the script IEEE_thermal_model_create_lookup_tables.m 
 
 
+## More about DTR of power transformers 
+<img align="left" alt="Coding" width="250" src="https://media-exp1.licdn.com/dms/image/C4E22AQFVhDYtt2te_w/feedshare-shrink_1280/0/1652876006660?e=1668038400&v=beta&t=eBRX9SszlDbTvlrkZOmlU_YBncHo2tHmdpjqxRxikbA">This paper was prepared during PhD thesis "Dynamic Thermal Rating of Power Transformers: Modelling, Concepts, and Application case" (but finally the paper was not included into PhD manuscript). The full text of PhD thesis is available on [Researchgate](https://www.researchgate.net/publication/363383515_Dynamic_Thermal_Rating_of_Power_Transformers_Modelling_Concepts_and_Application_case) or [HAL theses](https://tel.archives-ouvertes.fr/tel-03772184). Other GitHub repositories on DTR of power transformers:
+* Article: Assessment of dynamic transformer rating, considering current and temperature limitations. [GitHub repository](https://github.com/Ildar-Daminov/Assessment_Dynamic_Thermal_Rating_of_Transformers)
+* Article: Demand Response Coupled with Dynamic Thermal Rating for Increased Transformer Reserve and Lifetime. [GitHub repository](https://github.com/Ildar-Daminov/Demand-response-coupled-with-DTR-of-transformers)
+* Article: Energy limit of oil-immersed transformers: A concept and its application in different climate conditions. [GitHub repository](https://github.com/Ildar-Daminov/Energy-limit-of-power-transformer)
+* Conference paper: Optimal ageing limit of oil-immersed transformers in flexible power systems [GitHub repository](https://github.com/Ildar-Daminov/MATLAB-code-for-CIRED-paper)
+* Conference paper: Application of dynamic transformer ratings to increase the reserve of primary substations for new load interconnection. [GitHub repository](https://github.com/Ildar-Daminov/Reserve-capacity-of-transformer-for-load-connection)
