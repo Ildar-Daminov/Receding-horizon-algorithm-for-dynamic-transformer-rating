@@ -43,6 +43,7 @@ Additional functions:
 * sub_algorithm_3.m - this sub algorithm calcualtes DTR within the algorithm 3 
 * finding_b.m - this function takes HST and AMB and sorts them in descending order by HST. b represents an array of like [HST_hour AMB_hour start finish];
 * vline.m -  this function draws a vertical line on the current axes of figure (in our case we use it for visualization of present moment)
+* TAUW_DT.m - this function checks a stability and accuracy of time increment (the TAUW_DT is used inside of IEEE_thermal_model.m)
 
 Initial data:
 * initial_data.mat - data of daily transformer load in per units (PUL), ambient temperature (AMB) and time vector (TIM)
