@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/477365559.svg)](https://zenodo.org/doi/10.5281/zenodo.12510145)
+[![DOI:10.1109/PTC.2019.8810511](http://img.shields.io/badge/DOI-10.1109/PTC.2019.8810511-B31B1B.svg)](https://doi.org/10.1109/PTC.2019.8810511)
+
 # Receding horizon algorithm for dynamic transformer rating and its application for real-time economic dispatch
 <img align="left" alt="Coding" width="150" src="https://www.showsbee.com/newmaker/www/u/2018/20185/cfr_img/IEEE-PES-PowerTech-2019.png">
 
